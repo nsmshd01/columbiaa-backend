@@ -1,0 +1,18 @@
+# Dependencies
+node_modules/
+
+# Environment variables
+.env
+.env.*
+
+# Google Cloud credentials
+serviceAccountKey.json
+**/serviceAccountKey.json
+
+# Logs
+*.log
+
+# Build files
+dist/
+build/
+coverage/
